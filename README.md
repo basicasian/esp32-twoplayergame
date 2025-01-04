@@ -12,20 +12,20 @@ The project explores the theme of **remote multiplayer gaming** using technology
 - Tangible artifacts to enhance gameplay and communication.
 - Integration of IoT and ubiquitous computing principles.
 
-## Repository Contents
+## Technical Details
 
 - **`G1_Project.py`**: Main Python script implementing the game's core functionalities.
 - **`G1_WebServer.py`**: Python script managing the web server for remote interaction.
 - **`ClosedBox.svg`**: A visual asset used in the project.
 
-## Prerequisites
+### Prerequisites
 
 To run this project, ensure you have the following installed:
 
 - Python 3.8 or higher
 - Required Python libraries (install using `pip install -r requirements.txt`, if provided)
 
-## How to Run
+### How to Run
 
 1. Clone this repository:
    ```bash
@@ -45,7 +45,7 @@ To run this project, ensure you have the following installed:
    python G1_WebServer.py
    ```
 
-## Usage
+### Usage
 
 - Launch the game and connect with other players remotely.
 - Use the tangible artifacts to interact with the game environment and communicate.
