@@ -5,7 +5,7 @@
 
 ## Project Description
 
-The project explores the theme of **remote multiplayer gaming** using technology to foster interaction over a distance. It focuses on creating tangible interfaces and artifacts to enable a seamless and engaging gaming experience for 2 or more players. 
+The project explores the theme of **remote multiplayer gaming** using technology to foster interaction over a distance. It focuses on creating tangible interfaces and artifacts to enable a seamless and engaging gaming experience for 2 or more players. The project utilized ESP32 microcontrollers and various hardware components to achieve its objectives.
 
 ### Features
 - Multiplayer functionality over a distance.
@@ -18,37 +18,13 @@ The project explores the theme of **remote multiplayer gaming** using technology
 - **`G1_WebServer.py`**: Python script managing the web server for remote interaction.
 - **`ClosedBox.svg`**: A visual asset used in the project.
 
-### Prerequisites
-
-To run this project, ensure you have the following installed:
-
-- Python 3.8 or higher
-- Required Python libraries (install using `pip install -r requirements.txt`, if provided)
-
-### How to Run
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/multiplayer-remote-game.git
-   cd multiplayer-remote-game
-   ```
-
-2. Set up the necessary environment.
-
-3. Run the main script:
-   ```bash
-   python G1_Project.py
-   ```
-
-4. Optionally, start the web server for remote functionality:
-   ```bash
-   python G1_WebServer.py
-   ```
-
-### Usage
-
-- Launch the game and connect with other players remotely.
-- Use the tangible artifacts to interact with the game environment and communicate.
+### Used Hardware
+The project utilized the following hardware components:
+- ESP32: Microcontrollers for managing input and communication.
+- Motion Sensor: For detecting player interactions.
+- Push Buttons and Switches: For tangible artifact inputs.
+- LEDs: For visual feedback.
+- Wi-Fi Module: Integrated into the ESP32 for remote connectivity.
 
 ## License
 
