@@ -11,7 +11,7 @@
 
 ## Project Description
 
-The project explores the theme of **remote multiplayer gaming** using technology to foster interaction over a distance. It focuses on creating tangible interfaces to enable a seamless and engaging gaming experience for 2 or more players. The project utilized ESP32 microcontrollers and various hardware components to achieve its objectives. The player have to memorize a sequence of LED lights, repeat it over the buttons below. After each round players gain points, the winner is the one who memorized more sequences, thus collected more points at the end. 
+The project explores the theme of **remote multiplayer gaming** using technology to foster interaction over a distance. It focuses on creating tangible interfaces to enable a seamless and engaging gaming experience for 2 or more players. The project utilized ESP32 microcontrollers and various hardware components to achieve its objectives, developed with MicroPython. The player have to memorize a sequence of LED lights, repeat it over the buttons below. After each round players gain points, the winner is the one who memorized more sequences, thus collected more points at the end. 
 
 ### Features
 - Multiplayer functionality over a distance.
