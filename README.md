@@ -1,9 +1,9 @@
 # ESP32-Multiplayer Remote Game
 
 <p align="middle">
-  <img src="esp32-setup.gif" alt="Set Up" width="25%"/> 
+  <img src="esp32-setup.gif" alt="Set Up" width="20%"/> 
   <img src="esp32-ingame.png" alt="In Game" width="45%"/>
-  <img src="esp32-end.png" alt="End" width="24%"/> 
+  <img src="esp32-end.png" alt="End" width="20%"/> 
 </p>
 
 **Creators:** David Benkö, Christina Tüchler, Patrick Trollmann, Renate Zhang \
