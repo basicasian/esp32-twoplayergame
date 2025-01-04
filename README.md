@@ -2,7 +2,7 @@
 
 <p align="middle">
   <img src="esp32-start.png" alt="Start" width="25%"/> 
-  <img src="esp32-setup.gif" alt="Set Up" width="30%"/> 
+  <img src="esp32-setup.gif" alt="Set Up" width="15%"/> 
   <img src="esp32-ingame.png" alt="In Game" width="35%"/>
 </p>
 
