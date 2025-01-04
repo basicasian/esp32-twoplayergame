@@ -11,7 +11,7 @@
 
 ## Project Description
 
-The project explores the theme of **remote multiplayer gaming** using technology to foster interaction over a distance. It focuses on creating tangible interfaces and artifacts to enable a seamless and engaging gaming experience for 2 or more players. The project utilized ESP32 microcontrollers and various hardware components to achieve its objectives.
+The project explores the theme of **remote multiplayer gaming** using technology to foster interaction over a distance. It focuses on creating tangible interfaces to enable a seamless and engaging gaming experience for 2 or more players. The project utilized ESP32 microcontrollers and various hardware components to achieve its objectives. The player have to memorize a sequence of LED lights, repeat it over the buttons below. After each round players gain points, the winner is the one who memorized more sequences, thus collected more points at the end. 
 
 ### Features
 - Multiplayer functionality over a distance.
@@ -27,10 +27,10 @@ The project explores the theme of **remote multiplayer gaming** using technology
 ### Used Hardware
 The project utilized the following hardware components:
 - ESP32: Microcontrollers for managing input and communication.
-- Motion Sensor: For detecting player interactions.
-- Push Buttons and Switches: For tangible artifact inputs.
 - LEDs: For visual feedback.
+- Push Buttons : For repeating the inputs.
 - Wi-Fi Module: Integrated into the ESP32 for remote connectivity.
+- Speakers: Auditory output, supporting the LED lights. 
 
 ## License
 
