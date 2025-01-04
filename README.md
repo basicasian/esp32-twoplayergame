@@ -1,4 +1,4 @@
-# Multiplayer Remote Game Project
+# ESP32-Multiplayer Remote Game
 
 <p align="middle">
   <img src="esp32-setup.gif" alt="Set Up" width="20%"/> 
