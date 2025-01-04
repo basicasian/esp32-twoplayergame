@@ -1,5 +1,11 @@
 # Multiplayer Remote Game Project
 
+<p align="middle">
+  <img src="esp32-setup.gif" alt="Set Up" width="32%"/> 
+  <img src="esp32-start.png" alt="Start" width="34%"/> 
+  <img src="esp32-ingame.png" alt="In Game" width="30%"/>
+</p>
+
 **Creators:** David Benkö, Christina Tüchler, Patrick Trollmann, Renate Zhang \
 **Course:** Foundations of Ubiquitous Computing and IoT 2023WS, TU Vienna
 
