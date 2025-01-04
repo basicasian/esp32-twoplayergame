@@ -3,7 +3,7 @@
 <p align="middle">
   <img src="esp32-start.png" alt="Start" width="30%"/> 
   <img src="esp32-setup.gif" alt="Set Up" width="20%"/> 
-  <img src="esp32-ingame.png" alt="In Game" width="50%"/>
+  <img src="esp32-ingame.png" alt="In Game" width="45%"/>
 </p>
 
 **Creators:** David Benkö, Christina Tüchler, Patrick Trollmann, Renate Zhang \
